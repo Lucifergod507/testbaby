@@ -1,0 +1,2 @@
+class StopWorkError(BaseException):
+    pass
